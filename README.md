@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, eu sou a ikari ✨
 
-<!--
-**ikkkkari/ikkkkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 sou obcecada por estudos desde criança e simplesmente não consigo passar muito tempo sem procurar algum assunto para estudar
+- 🍄 possuo diversos interesses em diversas áreas
+- ⭐️ recentemente estou procurando estudar programação, desenvolvimento de jogos e inteligencias artificiais
+- 📫 você consegue entrar em contato comigo por aqui: ikkkkari@protonmail.com
+- 🌿 pronomes: ela/dela ou ele/dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello, I'm ikari ✨
+
+- 📚 I'm obsses with study since i was a child, I really can't stay a long pass of time without search a subject to study
+- 🍄 I have different interests in different areas.
+- ⭐️ recently i am looking to study programming, game development and artificial intelligence
+- 📫 you can contact me by: ikkkkari@protonmail.com
+- 🌿 pronouns: she/her or he/him
